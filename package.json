@@ -4,6 +4,7 @@
   "description": "Data scraped about local ski resorts",
   "main": "index.js",
   "scripts": {
+    "build": "npm install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
