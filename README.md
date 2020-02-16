@@ -7,3 +7,5 @@ Data scraped about local ski resorts
 You must run `netlify build` the first time you try building
 
 You can test the function at `http://localhost:34567/.netlify/functions/scrape-resort`
+
+The project is being put on hold since it appears you cannot easily get puppeteer working on netlify functions
