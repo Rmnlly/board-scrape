@@ -1,0 +1,23 @@
+{
+  "name": "board-scrape",
+  "version": "0.0.1",
+  "description": "Data scraped about local ski resorts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rmnlly/board-scrape.git"
+  },
+  "author": "rmnlly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rmnlly/board-scrape/issues"
+  },
+  "homepage": "https://github.com/Rmnlly/board-scrape#readme",
+  "dependencies": {
+    "chrome-aws-lambda": "^2.1.1",
+    "puppeteer-core": "^2.1.1"
+  }
+}
